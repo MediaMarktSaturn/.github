@@ -50,7 +50,7 @@ MediaMarktSaturn Technology is all about agile working, cool teams with pleasant
 
 ### JOIN US NOW 🔥
 
-Catched your interest ? What are you waiting for ? [Join us now !](https://mms.tech/)
+Caught your interest ? What are you waiting for ? [Join us now !](https://mms.tech/)
 
 Interested in other options across the MediaMarktSaturn Retail Group ? [Have a look here !](https://www.mediamarktsaturn.com/en/career-mediamarktsaturn)
 
