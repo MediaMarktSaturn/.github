@@ -16,7 +16,7 @@ We are people who actively shape the future of our company. We strive to contrib
 
 ### We love challenges ☮️
 
-We love challenges. Applying the newest technologies and trends to provide the best solutions to our customers - that’s what drives us.
+We love challenges. Applying the newest technologies and trends to provide the best solutions to our customers – that’s what drives us.
 
 ### We support each other 🏋️‍♂️
 
@@ -26,15 +26,15 @@ We work in diverse teams and always aim to find the best solutions together. Sup
 
 ### Flexibility ↩️
 
-Working at MediaMarktSaturn Technology means enriching people's lives with countless opportunities - including yours. With a variety of offers for childcare, care of relatives and opportunities for flexible work in place and time, we help you to balance your family and career according to your needs.
+Working at MediaMarktSaturn Technology means enriching people’s lives with countless opportunities – including yours. With a variety of offers for childcare, care of relatives and opportunities for flexible work in place and time, we help you to balance your family and career according to your needs.
 
 ### Modern equipment 💻, environment and hybrid working 👨‍💻🧑‍💻
 
-At MediaMarktSaturn Technology, we make sure that you feel right at home in the team while you're working and that you have the technical equipment you need to make your contribution on shaping the future in retail with us, no matter if you work from home or from one of our locations.
+At MediaMarktSaturn Technology, we make sure that you feel right at home in the team while you’re working and that you have the technical equipment you need to make your contribution on shaping the future in retail with us, no matter if you work from home or from one of our locations.
 
 ### Professional development and growth 📈
 
-Learning new things, constantly developing and having the freedom to think outside the box - these are the ingredients for both innovation and job satisfaction. We are constantly improving our organization and ourselves. This ensures our long-term success as a technology leader in retail and promotes your further development. Therefore, giving feedback is of extremely important to us. We support you with individual development plans and a variety of internal and external trainings in our Tech University.
+Learning new things, constantly developing and having the freedom to think outside the box – these are the ingredients for both innovation and job satisfaction. We are constantly improving our organization and ourselves. This ensures our long-term success as a technology leader in retail and promotes your further development. Therefore, giving feedback is of extremely important to us. We support you with individual development plans and a variety of internal and external trainings in our Tech University.
 
 ## TECH TALENTS WANTED!
 
@@ -50,9 +50,9 @@ MediaMarktSaturn Technology is all about agile working, cool teams with pleasant
 
 ### JOIN US NOW 🔥
 
-Caught your interest ? What are you waiting for ? [Join us now !](https://mms.tech/)
+Caught your interest? What are you waiting for? [Join us now!](https://mms.tech/)
 
-Interested in other options across the MediaMarktSaturn Retail Group ? [Have a look here !](https://www.mediamarktsaturn.com/en/career-mediamarktsaturn)
+Interested in other options across the MediaMarktSaturn Retail Group? [Have a look here!](https://www.mediamarktsaturn.com/en/career-mediamarktsaturn)
 
 ![JOIN US NOW!](https://media.giphy.com/media/Qa4jBXlr57JAmZi3Am/giphy.gif)
 
