@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: github-org-config
+  title: GitHub Organization Configuration (.github)
+  description: "Repository for GitHub organization-wide default files and Copilot MCP allowlist registry."
+  annotations:
+    github.com/project-slug: MediaMarktSaturn/.github
+    github.com/team-slug: MediaMarktSaturn/engineering-platform
+spec:
+  type: service
+  lifecycle: production
+  owner: Engineering Platform
