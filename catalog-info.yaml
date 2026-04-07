@@ -7,6 +7,7 @@ metadata:
   annotations:
     github.com/project-slug: MediaMarktSaturn/.github
     github.com/team-slug: MediaMarktSaturn/engineering-platform
+    mms.tech/ref_uuid: 8ecc39fd-529c-4b07-ac4e-cdf64ecf4809
 spec:
   type: service
   lifecycle: production
